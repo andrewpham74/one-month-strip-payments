@@ -1,0 +1,5 @@
+
+# add application variable config
+
+strip_publishable_key => 'pk_test_OaABfyKVhXUegbXWRIvXGEyb'
+strip_secret_key      => 'sk_test_hSIhPEQwAdIUHI6w1q1J0ej0'
